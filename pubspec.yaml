@@ -8,6 +8,10 @@ dependencies:
   flutter:
     sdk: flutter
 
+  web3dart:
+      git: https://github.com/simolus3/web3dart.git
+  pointycastle: "^1.0.0-rc1"
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
