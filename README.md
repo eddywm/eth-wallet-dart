@@ -2,7 +2,7 @@
 
 A  Dart project with the goal to port most Ethereum wallet standards to Dart/Flutter.
 
-Implemented standards thus far : 
+### Implemented features thus far : 
 
 1. Mnemonic seed generation &/ derivation.
 
@@ -15,6 +15,20 @@ Implemented standards thus far :
 5. Child key derivations from extended private keys.
 
 6. Initial Hierarchical Deterministic key support.
+
+
+
+### Work in progress : 
+
+
+  1. Full support for the official Ethereum derivation path.
+  
+  2. More unit tests
+  
+  3. Good Docs
+  
+  
+
 
 
 
